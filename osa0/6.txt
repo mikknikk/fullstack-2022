@@ -1,0 +1,11 @@
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+note over palvelin:
+palvelin tallentaa uuden
+muistiinpanomerkinnän
+end note
+
+note over selain:
+selain lisää palvelimelle
+lähetetyn muistiinpanon näytölle
+end note
